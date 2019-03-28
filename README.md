@@ -1,6 +1,6 @@
 # Awesome Stock Chart Viewer
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-talks)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Build Status](https://travis-ci.com/faisalpathan/StockChart.svg?branch=master)
 
 Shows the OHLC which is (Open, Hight, Low, Close) for Stock on a CandleStick Stock Graph with hover over shows details
 
